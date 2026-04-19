@@ -29,6 +29,11 @@ Case study mapping the 2023 breach against the Privacy Act 1988, the Notifiable 
 🔗 **[Customer Churn Prediction](https://github.com/ailinkon/churn-prediction)**
 Classification models built in Orange Data Mining with feature-importance analysis and stakeholder-ready reporting.
 
+🔗 **[Australian Data Breach Legal & Ethical Analysis](https://github.com/ailinkon/australian-breach-analysis)**
+Critical appraisal of the Optus, Medibank, and Latitude Financial breaches — mapped to the Privacy Act 1988, the NDB Scheme, GDPR, NIST CSF, and the ASD Essential Eight. Includes a 13-page report and 9-slide executive presentation with five evidence-based reform recommendations.
+
+🔗 *More projects coming — customer churn prediction (Orange Data Mining), cyber incident response case studies.*
+
 ---
 
 ## Currently learning
