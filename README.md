@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Ashraful 👋
 
-<!--
-**ailinkon/ailinkon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Ashraful Islam Linkon* — Master of Information Systems (Cyber Security specialisation), finishing at Apex Australia Higher Education in Sydney.
 
-Here are some ideas to get you started:
+I build and analyse systems that make organisations safer — with a bias for evidence-backed work, clean documentation, and honest results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I focus on
+
+🔐 *Cybersecurity analysis* — incident response case studies of Optus, Medibank, Colonial Pipeline, MOVEit, and Latitude Financial, mapped to NIST CSF and the ASD Essential Eight.
+
+🛡️ *Governance, risk & compliance* — Privacy Act 1988, Notifiable Data Breaches scheme, GDPR comparison, ISO 27001, APRA CPS 234.
+
+📊 *Applied machine learning* — classification and prediction models for phishing detection, customer churn, and credit risk using Orange Data Mining, scikit-learn, and Python.
+
+📚 *Structured research* — APA 7th, HD-graded academic writing, literature-review matrices.
+
+---
+
+## Pinned projects
+
+🔗 **[SEDAS — Social Engineering Defence and Awareness System](https://github.com/ailinkon/sedas)**
+Capstone research project designing a layered defence system for higher education: AI phishing detection + blockchain URL verification + adaptive awareness training + governance dashboards. Backed by a 40-paper structured literature review.
+
+🔗 **[Latitude Financial Breach — Regulatory Analysis](https://github.com/ailinkon/latitude-breach-analysis)**
+Case study mapping the 2023 breach against the Privacy Act 1988, the Notifiable Data Breaches scheme, GDPR, and Essential Eight Maturity Level 2.
+
+🔗 **[Customer Churn Prediction](https://github.com/ailinkon/churn-prediction)**
+Classification models built in Orange Data Mining with feature-importance analysis and stakeholder-ready reporting.
+
+---
+
+## Currently learning
+
+- ISC2 Certified in Cybersecurity (CC)
+- Microsoft SC-900 — Security, Compliance & Identity Fundamentals
+- Splunk Fundamentals 1
+- TryHackMe — SOC Level 1 path
+
+---
+
+## Tech I work with
+
+Python · SQL · Orange Data Mining · scikit-learn · pandas · Linux · Git · AWS · Azure · Wireshark · Nmap · Burp Suite · Splunk · Microsoft Sentinel
+
+---
+
+## Frameworks I work against
+
+NIST CSF · ISO 27001 · ASD Essential Eight · MITRE ATT&CK · NIST 800-61 IR Lifecycle · Privacy Act 1988 (Cth) / APPs / NDB Scheme · GDPR · APRA CPS 234
+
+---
+
+## Let's connect
+
+Open to graduate and junior roles in Australia — SOC Analyst, Cyber Security Analyst, Cyber GRC, Junior Data Analyst.
+
+🌏 Sydney, NSW
+📧 Islam.ashraful.linkon@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/linkon)
+
+---
+
+"Pause. Verify. Report." — the three-word mantra from my SEDAS capstone, and a pretty good operating principle for most things.
