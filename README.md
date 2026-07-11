@@ -38,6 +38,16 @@ Critical appraisal of the Optus, Medibank, and Latitude Financial breaches — m
 
 ---
 
+## 📄 Publications
+
+**Mathematical Interpretation of High Length Wi-Fi Network System** — *International Journal of Innovative Science and Research Technology*, Vol. 8, Issue 12, Dec 2023. [DOI: 10.5281/zenodo.10389887](https://zenodo.org/records/10389887)
+Mathematical modelling of a long-range Wi-Fi architecture — formalising the relationships between distance, signal behaviour, and network performance. Companion analysis to our 2022 system paper.
+
+**High Length Wi-Fi Network System** — *International Journal of Scientific & Engineering Research*, Apr 2022. [Read the paper](https://www.ijser.org/onlineResearchPaperViewer.aspx?High_Length_Wi_Fi_Network_System.pdf)
+Co-authored paper proposing a network architecture for extending Wi-Fi coverage beyond standard deployment ranges.
+
+---
+
 ## 📜 Currently learning
 
 - ISC2 Certified in Cybersecurity (CC)
