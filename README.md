@@ -22,14 +22,37 @@ I build and analyse systems that make organisations safer — with a bias for ev
 
 **[Shohoj Hishab (সহজ হিসাব)](https://github.com/ailinkon/shohojhishab-app)** — bilingual (Bengali/English) unit converter app, live on Google Play. Designed, built, and published end-to-end under AIL Apps.
 
-**FastInvo** *(in development)* — minimalist professional invoice generator with flexible tax-inclusive/exclusive pricing logic. Android release coming soon.
+**[FastInvo](https://github.com/ailinkon/fastinvo)** *(in development — Android release coming soon)* — minimalist, professional invoice generator built offline-first with no subscription required. Designed, built, and tested end-to-end:
+
+- Flexible tax-inclusive/exclusive pricing logic with automatic breakdown
+- Payment recording across cash, bank, EFT and mobile wallets (bKash/Nagad/Rocket/Upay), with split payments and paid/due status tracking
+- Saved clients, 5 invoice templates, PDF export and share
+- Currently in UI redesign and Capacitor Android packaging ahead of Google Play release
+- Built with React, TypeScript, Vite, Tailwind; shared calculation engine fuzz-tested against 2,000 invoices with zero failures
+- Next up: quotation/estimate flow (quote → invoice → payment → receipt loop), role-based multi-user access, optional 2FA
+
+---
+
+## 🧪 In the pipeline
+
+**PunchNest** *(in planning)* — multi-tenant workforce management SaaS for small/medium businesses, covering attendance & clock-in/out, roster management, leave management, payroll calculation, and PDF document generation (payslips, timesheets), with reporting dashboards.
+
+- Google OAuth + mandatory TOTP 2FA authentication
+- Planned stack: Next.js/React, Node.js, PostgreSQL
+- Tiered pricing model planned (Starter/Business/Professional), free for the first 180 days at launch
 
 ---
 
 ## 🔬 Featured projects
 
-**[SEDAS — Social Engineering Defence and Awareness System](https://github.com/ailinkon/sedas)**
-Capstone research project designing a layered defence system for higher education: AI phishing detection + blockchain URL verification + adaptive awareness training + governance dashboards. Backed by a 40-paper structured literature review.
+**[SEDAS — Social Engineering Defence and Awareness System](https://github.com/ailinkon/sedas)** *(MIS5320 Applied IS Project, Part B)*
+Capstone project building and evaluating a layered AI-based phishing defence platform, as a 4-person team, carrying the Part A research design through to a working, tested build:
+
+- Phishing detection pipeline (TF-IDF + Logistic Regression/SVM) trained on an 82,486-email combined corpus, benchmarked against a published 2024 paper (Al-Subaiey et al., *Computers and Electrical Engineering*) — SVC reached F1 99.16%, beating the paper's reported result, confirmed with 5-fold cross-validation and a paired significance test
+- URL verification refined from the original blockchain design to a SHA-256 hash-chained tamper-evident registry
+- Adaptive awareness training module with a risk-scoring engine, plus a stakeholder governance dashboard
+- Detection service deployed via FastAPI, backed by a 23-test suite and GitHub Actions CI
+- Backed by a 40-paper structured literature review
 
 **[Australian Data Breach Legal & Ethical Analysis](https://github.com/ailinkon/australian-breach-analysis)**
 Critical appraisal of the Optus, Medibank, and Latitude Financial breaches — mapped to the Privacy Act 1988, the NDB Scheme, GDPR, NIST CSF, and the ASD Essential Eight. Includes a 13-page report and a 9-slide executive presentation with five evidence-based reform recommendations.
