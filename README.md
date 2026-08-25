@@ -1,105 +1,285 @@
-# Hi, I'm Ashraful 👋
+# Hi, I'm Ashraful Islam Linkon 👋
 
-**Ashraful Islam Linkon** — Master of Information Systems (Cyber Security specialisation), finishing at Apex Australia Higher Education in Sydney.
+<p align="center">
+  <b>Cybersecurity Analyst | Information Systems Graduate | Builder of Real-World Software Products</b>
+</p>
 
-I build and analyse systems that make organisations safer — with a bias for evidence-backed work, clean documentation, and honest results.
-
----
-
-## What I focus on
-
-🔐 **Cybersecurity analysis** — incident response case studies of Optus, Medibank, Colonial Pipeline, MOVEit, and Latitude Financial, mapped to NIST CSF and the ASD Essential Eight.
-
-🛡️ **Governance, risk & compliance** — Privacy Act 1988, Notifiable Data Breaches scheme, GDPR comparison, ISO 27001, APRA CPS 234.
-
-📊 **Applied machine learning** — classification and prediction models for phishing detection, customer churn, and credit risk using Orange Data Mining, scikit-learn, and Python.
-
-📱 **Building & shipping** — I design, build, and publish real products, not just coursework.
+<p align="center">
+  Sydney, Australia 🇦🇺
+</p>
 
 ---
 
-## 🚀 Shipped products
+I am completing a **Master of Information Systems (Cyber Security specialisation)** at **Apex Australia Higher Education, Sydney**.
 
-**[Shohoj Hishab (সহজ হিসাব)](https://github.com/ailinkon/shohojhishab-app)** — bilingual (Bengali/English) unit converter app, live on Google Play. Designed, built, and published end-to-end under AIL Apps.
+My work sits at the intersection of:
 
-**[FastInvo](https://github.com/ailinkon/fastinvo)** *(in development — Android release coming soon)* — minimalist, professional invoice generator built offline-first with no subscription required. Designed, built, and tested end-to-end:
+- 🔐 Cybersecurity & incident response
+- 🛡 Governance, risk & compliance
+- 📊 Applied machine learning
+- 🚀 Product engineering
 
-- Flexible tax-inclusive/exclusive pricing logic with automatic breakdown
-- Payment recording across cash, bank, EFT and mobile wallets (bKash/Nagad/Rocket/Upay), with split payments and paid/due status tracking
-- Saved clients, 5 invoice templates, PDF export and share
-- Currently in UI redesign and Capacitor Android packaging ahead of Google Play release
-- Built with React, TypeScript, Vite, Tailwind; shared calculation engine fuzz-tested against 2,000 invoices with zero failures
-- Next up: quotation/estimate flow (quote → invoice → payment → receipt loop), role-based multi-user access, optional 2FA
+I enjoy turning research, security frameworks, and technical ideas into practical systems with clear documentation and measurable outcomes.
 
 ---
 
-## 🧪 In the pipeline
+# 🎯 Areas of Focus
 
-**PunchNest** *(in planning)* — multi-tenant workforce management SaaS for small/medium businesses, covering attendance & clock-in/out, roster management, leave management, payroll calculation, and PDF document generation (payslips, timesheets), with reporting dashboards.
+## 🔐 Cybersecurity Analysis
 
-- Google OAuth + mandatory TOTP 2FA authentication
-- Planned stack: Next.js/React, Node.js, PostgreSQL
-- Tiered pricing model planned (Starter/Business/Professional), free for the first 180 days at launch
+Security research and case analysis covering:
+
+- Optus data breach
+- Medibank cyber attack
+- Colonial Pipeline incident
+- MOVEit vulnerability
+- Latitude Financial breach
+
+Mapped against:
+
+- NIST Cybersecurity Framework
+- ASD Essential Eight
+- NIST Incident Response Lifecycle
+
+
+## 🛡 Governance, Risk & Compliance
+
+Experience analysing:
+
+- Privacy Act 1988 (Cth)
+- Australian Notifiable Data Breaches Scheme
+- GDPR
+- ISO 27001
+- APRA CPS 234
+
+
+## 📊 Applied Machine Learning
+
+Building predictive and classification models using:
+
+- Python
+- scikit-learn
+- pandas
+- Orange Data Mining
+
+Projects include:
+
+- Phishing detection
+- Customer churn prediction
+- Credit risk modelling
+
+
+## 🚀 Building Real Products
+
+I believe in building and shipping working systems — not only completing coursework.
 
 ---
 
-## 🔬 Featured projects
+# 🚀 Products
 
-**[SEDAS — Social Engineering Defence and Awareness System](https://github.com/ailinkon/sedas)** *(MIS5320 Applied IS Project, Part B)*
-Capstone project building and evaluating a layered AI-based phishing defence platform, as a 4-person team, carrying the Part A research design through to a working, tested build:
+## 📱 Shohoj Hishab (সহজ হিসাব)
 
-- Phishing detection pipeline (TF-IDF + Logistic Regression/SVM) trained on an 82,486-email combined corpus, benchmarked against a published 2024 paper (Al-Subaiey et al., *Computers and Electrical Engineering*) — SVC reached F1 99.16%, beating the paper's reported result, confirmed with 5-fold cross-validation and a paired significance test
-- URL verification refined from the original blockchain design to a SHA-256 hash-chained tamper-evident registry
-- Adaptive awareness training module with a risk-scoring engine, plus a stakeholder governance dashboard
-- Detection service deployed via FastAPI, backed by a 23-test suite and GitHub Actions CI
-- Backed by a 40-paper structured literature review
+🔗 https://github.com/ailinkon/shohojhishab-app
 
-**[Australian Data Breach Legal & Ethical Analysis](https://github.com/ailinkon/australian-breach-analysis)**
-Critical appraisal of the Optus, Medibank, and Latitude Financial breaches — mapped to the Privacy Act 1988, the NDB Scheme, GDPR, NIST CSF, and the ASD Essential Eight. Includes a 13-page report and a 9-slide executive presentation with five evidence-based reform recommendations.
+A bilingual Bengali/English unit converter application published on Google Play.
 
-*Coming soon: Latitude Financial regulatory deep-dive · customer churn prediction (Orange Data Mining) · SOC investigation writeups.*
+Built and released end-to-end under **AIL Apps**.
 
 ---
 
-## 📄 Publications
+## 🧾 FastInvo
 
-**Mathematical Interpretation of High Length Wi-Fi Network System** — *International Journal of Innovative Science and Research Technology*, Vol. 8, Issue 12, Dec 2023. [DOI: 10.5281/zenodo.10389887](https://zenodo.org/records/10389887)
-Mathematical modelling of a long-range Wi-Fi architecture — formalising the relationships between distance, signal behaviour, and network performance. Companion analysis to our 2022 system paper.
+🔗 https://github.com/ailinkon/fastinvo
 
-**High Length Wi-Fi Network System** — *International Journal of Scientific & Engineering Research*, Apr 2022. [Read the paper](https://www.ijser.org/onlineResearchPaperViewer.aspx?High_Length_Wi_Fi_Network_System.pdf)
-Co-authored paper proposing a network architecture for extending Wi-Fi coverage beyond standard deployment ranges.
+**Offline-first invoice generation application for small businesses.**
 
-🔬 Full research profile: [Ashraful Islam on ResearchGate](https://www.researchgate.net/profile/Ashraful_Islam48)
+Features:
+
+- Tax inclusive/exclusive calculations
+- Automatic invoice breakdown
+- Client management
+- Payment tracking
+- Split payments
+- PDF export and sharing
+- Multiple invoice templates
+
+Technology:
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Capacitor Android
+
+Currently undergoing UI refinement before Google Play release.
 
 ---
 
-## 📜 Currently learning
+# 🏗 Building Next
+
+## PunchNest
+
+Workforce management SaaS platform for small and medium businesses.
+
+Planned capabilities:
+
+- Employee attendance tracking
+- Clock-in / clock-out
+- Smart rostering
+- Leave management
+- Payroll preparation
+- Timesheet generation
+- Reporting dashboards
+
+Planned architecture:
+
+- React / Next.js
+- Node.js
+- PostgreSQL
+- Google OAuth
+- TOTP-based 2FA
+
+---
+
+# 🔬 Featured Projects
+
+## 🛡 SEDAS — Social Engineering Defence and Awareness System
+
+🔗 https://github.com/ailinkon/sedas
+
+**MIS5320 Applied IS Project**
+
+A layered AI-assisted phishing defence platform developed as a team project.
+
+Key components:
+
+- Machine learning phishing detection pipeline
+- TF-IDF feature extraction
+- Logistic Regression and SVM models
+- Risk-based awareness training module
+- Governance dashboard
+- FastAPI deployment
+- Automated testing and CI workflow
+
+The project included structured literature analysis and evaluation against existing research.
+
+---
+
+## 🇦🇺 Australian Data Breach Legal & Ethical Analysis
+
+🔗 https://github.com/ailinkon/australian-breach-analysis
+
+Analysis of:
+
+- Optus breach
+- Medibank breach
+- Latitude Financial breach
+
+Frameworks applied:
+
+- Privacy Act 1988
+- NDB Scheme
+- GDPR
+- NIST CSF
+- ASD Essential Eight
+
+Delivered:
+
+- Research report
+- Executive presentation
+- Security improvement recommendations
+
+---
+
+# 📚 Publications
+
+## Mathematical Interpretation of High Length Wi-Fi Network System
+
+International Journal of Innovative Science and Research Technology  
+Vol. 8 Issue 12 — December 2023
+
+DOI:
+https://doi.org/10.5281/zenodo.10389887
+
+Research focused on mathematical modelling of long-range Wi-Fi behaviour and network performance relationships.
+
+---
+
+## High Length Wi-Fi Network System
+
+International Journal of Scientific & Engineering Research — 2022
+
+Research proposing an extended Wi-Fi architecture approach.
+
+---
+
+Research profile:
+
+https://www.researchgate.net/profile/Ashraful_Islam48
+
+---
+
+# 📖 Currently Learning
 
 - ISC2 Certified in Cybersecurity (CC)
-- Microsoft SC-900 — Security, Compliance & Identity Fundamentals
-- Splunk Fundamentals 1
-- TryHackMe — SOC Level 1 path
+- Microsoft SC-900 Security, Compliance & Identity Fundamentals
+- Splunk Fundamentals
+- TryHackMe SOC Level 1 Path
 
 ---
 
-## 🧰 Tech I work with
+# 🧰 Technical Skills
 
-Python · SQL · Orange Data Mining · scikit-learn · pandas · Linux · Git · AWS · Azure · Wireshark · Nmap · Burp Suite · Splunk · Microsoft Sentinel · TypeScript / React
+### Programming & Data
 
-## 📐 Frameworks I work against
+Python · SQL · TypeScript · JavaScript · pandas · scikit-learn
 
-NIST CSF · ISO 27001 · ASD Essential Eight · MITRE ATT&CK · NIST 800-61 IR Lifecycle · Privacy Act 1988 (Cth) / APPs / NDB Scheme · GDPR · APRA CPS 234
+### Security Tools
+
+Wireshark · Nmap · Burp Suite · Splunk · Microsoft Sentinel
+
+### Cloud & Platforms
+
+AWS · Azure · Linux · Git · GitHub Actions
+
+### Development
+
+React · Vite · Tailwind CSS · Node.js
 
 ---
 
-## 🤝 Let's connect
+# 📐 Security Frameworks
 
-Open to graduate and junior roles in Australia — SOC Analyst, Cyber Security Analyst, Cyber GRC, Junior Data Analyst.
+NIST CSF  
+NIST 800-61 Incident Response Lifecycle  
+MITRE ATT&CK  
+ISO 27001  
+ASD Essential Eight  
+Privacy Act 1988 (Cth)  
+APPs / NDB Scheme  
+GDPR  
+APRA CPS 234
 
-🌏 Sydney, NSW
+---
+
+# 🤝 Let's Connect
+
+Currently open to graduate and junior opportunities in:
+
+- Cyber Security Analyst
+- SOC Analyst
+- Cyber GRC Analyst
+- Junior Data Analyst
+
+📍 Sydney, NSW, Australia
+
 📧 Islam.ashraful.linkon@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/linkon)
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/linkon
 
 ---
 
-> **"Pause. Verify. Report."** — the three-word mantra from my SEDAS capstone, and a pretty good operating principle for most things.
+> **Pause. Verify. Report.**
+
+A simple principle for cybersecurity, engineering, and decision-making.
